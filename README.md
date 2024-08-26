@@ -22,4 +22,5 @@ To get started with this application, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/todo-web-app.git
+   git clone https://github.com/garg-udit/todo-list.git
+   ```
