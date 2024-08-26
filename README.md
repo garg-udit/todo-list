@@ -24,3 +24,21 @@ To get started with this application, follow these steps:
    ```bash
    git clone https://github.com/garg-udit/todo-list.git
    ```
+
+2. **Navigate to the Project Directory**
+
+   ```bash
+   cd todo-list
+   ```
+
+3. **Install Dependencies**
+
+   ```bash
+   npm install
+   ```
+
+4. **Start the Development Server**
+
+   ```bash
+   npm start
+   ```
